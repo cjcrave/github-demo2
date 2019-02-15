@@ -1,3 +1,3 @@
 # github-demo2
 
-got here first.
+I am here for the first time, you didn't beat me.
